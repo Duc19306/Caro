@@ -1,6 +1,5 @@
 """
 https://www.facebook.com/ngtrduc19
-
 """
 import pygame, sys, time
 from definitions import *
